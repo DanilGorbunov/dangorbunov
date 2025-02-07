@@ -46,7 +46,10 @@ const Footer = () => {
         ></Button>
       </div>
       <h2 className="text-center text-sm sm:text-base mt-8">
-        Portfolio by Danil Gorbunov
+        +421 907 077 202
+      </h2>
+      <h2 className="text-center text-sm sm:text-base mt-8">
+        danilgorbunov@gmail.com
       </h2>
     </>
   );
