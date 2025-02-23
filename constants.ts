@@ -38,7 +38,6 @@ export const EMAIL = "danilgorbunov.com";
 
 export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/danilgorbunov",
-  github: "https://github.com/danilgorbunov",
   behance: "https://www.behance.net/danil_gorbunov",
 };
 
