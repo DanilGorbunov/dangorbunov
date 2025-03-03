@@ -53,6 +53,15 @@ export interface IProject {
 
 export const PROJECTS: IProject[] = [
   {
+    name: "AI chat bot",
+    image: "/projects/chatbot.png",
+    blurImage: "/projects/blur/scrolls-blur.jpg",
+    description: "AI bot for Online Shops - SAAS (in process)",
+    gradient: ["#685506", "#7B6921"],
+    url: "https://www.behance.net/gallery/220342691/SAAS-AI-BOT-ASSISTANT",
+    tech: ["figma", "react", "html", "css"],
+  },
+  {
     name: "Invoicing Back Office App",
     image: "/projects/global.jpg",
     blurImage: "/projects/blur/myokr-blur.jpg",
@@ -141,15 +150,6 @@ export const PROJECTS: IProject[] = [
     gradient: ["#470700", "#712A23"],
     url: "https://www.behance.net/gallery/218361457/Xproid-SAAS-for-ecommerce",
     tech: ["figma", "react", "wordpress", "css"],
-  },
-  {
-    name: "AI chat bot",
-    image: "/projects/chatbot.jpg",
-    blurImage: "/projects/blur/scrolls-blur.jpg",
-    description: "AI bot for Online Shops - SAAS (in process)",
-    gradient: ["#685506", "#7B6921"],
-    url: "",
-    tech: ["figma", "react", "html", "css"],
   },
 ];
 
